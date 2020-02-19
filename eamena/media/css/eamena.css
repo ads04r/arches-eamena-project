@@ -1,0 +1,9 @@
+.v5-splash-caption
+{
+	text-shadow: 0 0 0.2em #000, 0 0 0.2em #000;
+}
+
+.v5-splash-caption h2
+{
+	text-shadow: -0.2em -0.2em 0.2em #000, 0.2em -0.2em 0.2em #000, -0.2em 0.2em 0.2em #000, 0.2em 0.2em 0.2em #000;
+}
